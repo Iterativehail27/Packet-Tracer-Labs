@@ -9,7 +9,7 @@
    
   ```etherchannel load balancing, redundancy and increased bandwidth.pkt``` 
     
-<h4>is a theoretical lab, packet tracer is not a perfect software solution and it will sometimes complete a traceroute but other times not, however on real hardware it should work 100% of the time.</h4>
+<h4>is a theoretical lab, packet tracer is not a perfect software solution and it will sometimes complete a traceroute but other times not as it tries its best to EMULATE hardware, however on real hardware it should work 100% of the time in more complicated networks.</h4>
 <br>
 <h4>2) The packet tracer lab that is titled</h4>
 
