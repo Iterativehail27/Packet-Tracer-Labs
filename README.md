@@ -19,4 +19,4 @@
 <h4>3) The packet tracer lab that is titled</h4>
 
 ```DNS server & DNS router config.pkt```
-<h4>Is a limited functionality lab because packet tracer does not have the "ip DNS server" command in global config mode so routers cannot be configured to act as a DNS server for clients. However they can still build a host name list and resolve host-names to ip addresses by checking their local entries before executing a command such as a ping to a client per the manually entered hostname.</h4>
+<h4>Is a limited functionality lab because packet tracer does not include the "ip DNS server" command in global config mode so routers cannot be configured to act as a DNS server for clients. However they can still build a host name list and resolve host-names to ip addresses by checking their local entries before executing a command such as a ping to a client per the manually entered hostname.</h4>
