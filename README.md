@@ -20,3 +20,8 @@
 
 ```DNS server & DNS router config.pkt```
 <h4>Is a limited functionality lab because packet tracer does not include the "ip DNS server" command in global config mode so routers cannot be configured to act as a DNS server for clients. However they can still build a host name list and resolve host-names to ip addresses by checking their local entries before executing a command such as a ping to a client per the manually entered hostname.</h4>
+<br>
+<h4>4) The packet tracer lab that is titled</h4>
+
+```SNMP Start.pkt``` 
+<h4>Is a very limited functionality lab because packet tracer does not include a great deal of commands related to SNMP, for instance, the 'SNMP-server host' command is left out meaning you cannot configure a SNMP notification host server to receive traps or request messages. However, communities can still be formed and endhosts can use the MIB browser to use get, getbulk and set messages, as well as view a variety of details about devices within the communities you will configure in the lab. Therefore, I included a SNMP lab despite it missing a whole bunch of commands/features, also, I included it because it's a commonly used protocol on modern networks.</h4>
