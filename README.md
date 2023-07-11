@@ -25,3 +25,8 @@
 
 ```SNMP Start.pkt``` 
 <h4>Is a very limited functionality lab because packet tracer does not include a great deal of commands related to SNMP, for instance, the 'SNMP-server host' command is left out meaning you cannot configure a SNMP notification host server to receive traps or request messages. However, communities can still be formed and endhosts can use the MIB browser to use get, getbulk and set messages, as well as view a variety of details about devices within the communities you will configure in the lab. Therefore, I included a SNMP lab despite it missing a whole bunch of commands/features, also, I included it because it's a commonly used protocol on modern networks.</h4>
+<br>
+<h4>4) The packet tracer lab that is titled</h4>
+
+```SSH, Telnet, RSA key generation, port-security, VTY line config, username and password protection.done```
+<h4>Uses CCNP for the command line secret on the switches and Jeff for the secret to access privileged exec mode. The username is Steven.</h4>
